@@ -16,5 +16,5 @@ I'm a **Professional Services** at **Nava Technology for Business**, with expert
 
 **Contact me** ⤵️
 
-LinkedIn: https://www.linkedin.com/in/guilherme-guimar%C3%A3es-030214209/
-Email: gguimaraes2003@gmail.com
+- https://www.linkedin.com/in/guilherme-guimar%C3%A3es-030214209/
+- gguimaraes2003@gmail.com
