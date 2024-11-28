@@ -1,16 +1,14 @@
-## Hi there 👋
+🚀 Professional Services - Nava Technology for Business
+I'm a Professional Services specialist at Nava Technology for Business, with expertise in Grafana, Kubernetes, and MySQL. I work on implementing and optimizing solutions for monitoring, container orchestration, and database management.
 
-<!--
-**sggui/sggui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Key Technologies:
+Grafana: Metrics visualization and monitoring.
+Kubernetes: Container orchestration and infrastructure automation.
+MySQL: Database administration and optimization.
+💼 What I Do:
+Implementing dashboards and monitoring solutions.
+Managing Kubernetes clusters in production.
+Optimizing and administering MySQL databases.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me ⤵️
+gguimaraes2003@gmail.com
