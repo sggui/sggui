@@ -1,16 +1,19 @@
-🚀 Professional Services - Nava Technology for Business
-I'm a Professional Services specialist at Nava Technology for Business, with expertise in Grafana, Kubernetes, and MySQL. I work on implementing and optimizing solutions for monitoring, container orchestration, and database management.
+# 🚀 **Professional Services - Nava Technology for Business**
 
-🛠️ Key Technologies:
-Grafana: Metrics visualization and monitoring.
-Kubernetes: Container orchestration and infrastructure automation.
-MySQL: Database administration and optimization.
+I'm a **Professional Services** specialist at **Nava Technology for Business**, with expertise in **Grafana**, **Kubernetes**, and **MySQL**. I work on implementing and optimizing solutions for monitoring, container orchestration, and database management.
 
-💼 What I Do:
-Implementing dashboards and monitoring solutions.
-Managing Kubernetes clusters in production.
-Optimizing and administering MySQL databases.
+## 🛠️ **Key Technologies**:
+- **Grafana**: Metrics visualization and monitoring.
+- **Kubernetes**: Container orchestration and infrastructure automation.
+- **MySQL**: Database administration and optimization.
 
-Contact me ⤵️
+## 💼 **What I Do**:
+- Implementing dashboards and monitoring solutions.
+- Managing Kubernetes clusters in production.
+- Optimizing and administering MySQL databases.
 
-gguimaraes2003@gmail.com
+---
+
+**Contact me** ⤵️
+LinkedIn: https://www.linkedin.com/in/guilherme-guimar%C3%A3es-030214209/
+Email: gguimaraes2003@gmail.com
