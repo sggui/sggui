@@ -11,4 +11,5 @@ Managing Kubernetes clusters in production.
 Optimizing and administering MySQL databases.
 
 Contact me ⤵️
+
 gguimaraes2003@gmail.com
