@@ -10,7 +10,7 @@ I'm a **Professional Services** at **Nava Technology for Business**, with expert
 ## 💼 **What I Do**:
 - Implementing dashboards and monitoring solutions.
 - Managing Kubernetes clusters in production.
-- Optimizing and administering MySQL databases.
+- Optimizing and administering SQL databases.
 
 ---
 
