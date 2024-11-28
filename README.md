@@ -1,6 +1,6 @@
 # 🚀 **Professional Services - Nava Technology for Business**
 
-I'm a **Professional Services** specialist at **Nava Technology for Business**, with expertise in **Grafana**, **Kubernetes**, and **MySQL**. I work on implementing and optimizing solutions for monitoring, container orchestration, and database management.
+I'm a **Professional Services** at **Nava Technology for Business**, with expertise in **Grafana**, **Kubernetes**, and **MySQL**. I work on implementing and optimizing solutions for monitoring, container orchestration, and database management.
 
 ## 🛠️ **Key Technologies**:
 - **Grafana**: Metrics visualization and monitoring.
