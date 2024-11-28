@@ -5,7 +5,7 @@ I'm a **Professional Services** at **Nava Technology for Business**, with expert
 ## 🛠️ **Key Technologies**:
 - **Grafana**: Metrics visualization and monitoring.
 - **Kubernetes**: Container orchestration and infrastructure automation.
-- **MySQL**: Database administration and optimization.
+- **SQL**: Database administration and optimization.
 
 ## 💼 **What I Do**:
 - Implementing dashboards and monitoring solutions.
